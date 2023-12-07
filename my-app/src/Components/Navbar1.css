@@ -1,0 +1,50 @@
+.navbar1 {
+    display: flex;
+    align-items: center; 
+    background-color: #1B6392; 
+    height: 60px; 
+    padding-left: 200px;
+  }
+.navbartext1{
+    margin-left: 5px;
+    color:#ffff ; 
+    font-size: 20px;
+    font-family: sans-serif;
+   font-weight: bold;
+   
+}
+.logo12{
+    margin-left: 900px;
+    
+}
+.userbox{
+  border: 1px solid #E4E7E9;
+  border-radius: 3px;
+  background-color: #ffff;
+  margin-top: 120px;
+padding-left: 10px;
+padding-right: 50px;
+margin-left: -135px;
+padding-top: 10px;
+font-size: 14px;
+font-family: sans-serif;
+font-weight: bold;
+
+
+}
+.myor{
+  color: #FA8232;
+}
+.mylo{
+  color: #5F6C72;
+
+}
+.userbox a {
+  text-decoration: none;
+}
+
+  
+ 
+  
+
+  

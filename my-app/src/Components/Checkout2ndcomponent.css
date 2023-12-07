@@ -1,0 +1,64 @@
+.tvpic{
+    margin: 30px 80px;
+    border: 2px solid #E4E7E9;
+    border-radius: 5px;
+
+
+}
+.checktv{
+    display: flex;
+}
+.textpictv{
+    color: #191C1F;
+    font-size: 18px;
+    font-family:sans-serif;
+    margin-top: 30px;
+    font-weight: 600;
+}
+
+.textpictv11{
+    margin-top: -10px;
+    
+}
+.textpictv13{
+    color: #2DA5F3;
+    font-size: 24px;
+    font-family:sans-serif;}
+
+.textpictv14{
+    color: #191C1F;
+    font-size: 14px;
+    font-family:sans-serif;
+    font-weight: 600;
+    border: 2px solid #1d557a;
+    margin-left: -475px;
+    margin-top: 110px;
+    height: 30px;
+    padding-top: 3px;
+    background-color: #EFD33D;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.bynowbutton{
+    margin-top: 30px;
+    width: 50%;
+    height: 50px;
+    background-color: #FA8232;
+    border-color: #ffffff;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 14px;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    font-weight: bold;
+}
+.logocontainerbuy{
+    margin-left: 10px; 
+}
+
+a.checkoutbtn{
+    text-decoration: none;
+}

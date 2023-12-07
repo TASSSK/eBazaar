@@ -1,0 +1,36 @@
+.container12{
+    height: 533px;
+    width: 1451;
+    background-color: #F2F4F5;
+    align-items: center;
+    margin: 20px 150px ;
+    display: flex;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    
+}
+.container11{
+    margin-left: 260px;
+}
+
+.sttext{
+    color:#2484C2;
+    font-size: 14px;
+    font-family: sans-serif;
+   font-weight:550;
+
+}
+.ndtext{
+    color:#191C1F;
+    font-size: 48px;
+    font-family: sans-serif;
+   font-weight: bold;
+
+}
+.rdtext{
+    color:#475156;
+    font-size: 17px;
+    font-family: sans-serif;
+
+}

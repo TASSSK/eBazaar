@@ -1,0 +1,79 @@
+.orco1{
+    border: 2px solid #E4E7E9;
+    margin: 80px 200px;
+    border-radius: 5px;
+
+}
+.orco2{
+    color: #191C1F;
+    font-size: 24px;
+    font-family:sans-serif;
+   padding-top: 20px;
+   padding-left: 9px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.orco3{
+    border: 2px solid #E4E7E9;
+    margin: 20px 0px;
+    background-color: #F2F4F5;
+    display: flex;
+    padding: 5px;
+    color: #475156;
+    font-size: 16px;
+    font-family:sans-serif;
+    font-weight: 525;
+
+}
+.orco4{
+    padding-left: 20px;
+    
+}
+.orco5{
+    padding-left: 400px;
+    
+}
+.orco6{
+    padding-left: 400px;
+}
+.orco7{
+    display: flex;
+
+}
+.orco8{
+    line-height: 5px;
+    margin-left: 20px;
+    color:#191C1F;
+    font-size: 14px;
+    font-family:sans-serif;
+    font-weight: 550;
+    padding: 10px;
+}
+
+.orco9{
+    padding-left: 230px;
+    
+
+}
+.orco10{
+    padding-left: 400px;
+    color:#191C1F;
+    font-size: 14px;
+    font-family:sans-serif;
+    font-weight: 550;
+
+    
+}
+.orco11{
+    
+    color:#475156;
+    font-size: 14px;
+    font-family:sans-serif;
+    font-weight: 550;
+    
+}
+.orco12{
+    text-decoration: line-through;
+    color: #929FA5;
+
+}
