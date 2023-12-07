@@ -1,0 +1,20 @@
+.navbar {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    background-color: #1B6392; 
+    height: 60px; 
+  }
+.navbartext{
+    margin-left: 5px;
+    color:#ffff ; 
+    font-size: 20px;
+    font-family: sans-serif;
+   font-weight: bold;
+   
+}
+  
+ 
+  
+
+  

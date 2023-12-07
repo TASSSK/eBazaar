@@ -1,0 +1,36 @@
+.text3com{
+ color: #191C1F;
+ text-align: center;
+ margin: 5px;
+ font-size: 30px;
+font-family: sans-serif;
+font-weight: bold;
+}
+.pc{
+    
+    height: 260px;
+    width: 180px;
+    padding-left: 15px;
+    padding-top: 20px;
+    
+    border: 1px solid #E4E7E9;
+    
+
+}
+.pctext{
+color: #191C1F;
+font-family: sans-serif;
+font-size: 16px;
+font-weight: 580;
+text-align: center;
+padding-top: 30px;
+}
+
+.boxes{
+   display: flex;
+   padding-left: 190px;
+   justify-content: space-between;
+   margin-top: 30px;
+   margin-right: 200px;
+
+}

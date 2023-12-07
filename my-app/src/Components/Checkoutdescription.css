@@ -1,0 +1,52 @@
+.comdes {
+    line-height: 10px;
+    font-size: 14px;
+    font-family:sans-serif;
+    color:#5F6C72;
+    padding-top: 60px;
+    padding-left:180px;
+    padding-bottom: 60px;
+    
+}
+
+.checkco{
+    display: flex;
+    border: 2px solid #E4E7E9;
+    border-radius: 5px;
+    margin:40px 80px;
+    
+}
+
+.codess{
+    padding-top:50px;
+    padding-right: 150px;
+    font-size: 14px;
+    font-family:sans-serif;
+    color:#5F6C72
+
+}
+
+.horizontal-line{
+    border: 1px solid #E4E7E9;
+    margin-left: 100px;
+    margin-right: 15px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+.firstp{
+    font-size: 16px;
+    font-family:sans-serif;
+    font-weight: 600;
+    color: #191C1F;
+
+}
+.secp{
+    font-size: 16px;
+    font-family:sans-serif;
+    font-weight: 600;
+    color: #191C1F;
+
+}
+.bold1{
+    color:#191C1F;
+}

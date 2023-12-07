@@ -1,0 +1,44 @@
+.navbarcom {
+    display: flex;
+    align-items: center; 
+    background-color: #F2F4F5; 
+    height: 60px; 
+    padding-left: 200px;
+  }
+.navbartext1com{
+    color:#ffff ; 
+    font-size: 20px;
+    font-family: sans-serif;
+   font-weight: bold;
+   
+}
+ .navbarlogohome{
+  color: #5F6C72;
+ }
+ .breadcrumbs {
+  list-style: none;
+  padding-top: 20px;
+  font-size: 15px;
+    font-family: sans-serif;
+    padding-left: 15px;
+    font-weight: 100;
+}
+
+.breadcrumbs li {
+  display: inline;
+  color: #5F6C72; 
+}
+
+.breadcrumbs li:not(:last-child):after {
+  content: ">";
+  margin-left: 8px;
+  margin-right: 5px;
+  color: #5F6C72; 
+  
+}
+
+  
+ 
+  
+
+  
